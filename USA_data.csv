@@ -1,0 +1,5 @@
+,Customer_Id,Customer_Name,Open_date,Last_Consulted_Date,Vaccination_Id,Dr_Name,State,Country,DOB,Is_Active
+0,111,samiksha,2021-06-10,2022-06-10,MVD,piter,VG,USA,1994-03-05,A
+1,345,Sushil,2021-08-05,2022-08-05,CSD,Alex,SA,USA,1995-08-04,A
+2,541,Amrish,2021-05-07,2022-05-07,MVD,Pooja,CA,USA,1998-03-01,A
+3,852,john,2021-05-07,2022-05-07,CSD,Matt,CO,USA,1992-07-07,A

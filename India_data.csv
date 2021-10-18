@@ -1,0 +1,7 @@
+,Customer_Id,Customer_Name,Open_date,Last_Consulted_Date,Vaccination_Id,Dr_Name,State,Country,DOB,Is_Active
+0,123,Akshay,2021-09-01,2022-09-02,MVD,Paul,MH,IND,1994-07-04,A
+1,456,Shital,2021-09-05,2022-10-05,MVD,John,UP,IND,1994-11-04,A
+2,678,Chetna,2021-10-11,2022-10-11,CSD,Shital,MH,IND,1996-07-04,A
+3,753,asho,2021-05-08,2022-05-08,MVD,pitet,KL,IND,1992-07-07,A
+4,765,kajol,2021-02-09,2022-02-09,MVD,Paul,GJ,IND,1994-04-08,A
+5,789,kedar,2021-05-07,2022-05-07,MVD,Matt,TN,IND,1993-02-01,A
